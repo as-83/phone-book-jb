@@ -1,0 +1,15 @@
+/.gradle/
+/.idea/
+/gradle/
+/Phone Book/A needle in the hay/
+/Phone Book/Instant search/
+/Phone Book/Jumping bubbles/
+/Phone Book/Need for speed/
+/Phone Book/task/build/
+/Phone Book/task/out/
+**.yaml
+**.class
+/gradlew
+/gradlew.bat
+**.html
+
